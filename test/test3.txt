@@ -1,0 +1,8 @@
+load 1, 0(0)
+load 2, 1(0)
+addi 1, 0, 5
+addi 2, 0, 6
+jal 7
+addi 4, 0, 7
+addi 4, 4, 8
+addi 4, 0, 15

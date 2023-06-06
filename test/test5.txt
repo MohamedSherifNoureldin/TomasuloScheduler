@@ -1,0 +1,6 @@
+addi 5, 0, 5
+addi 3, 0, 3
+neg 6, 5
+sll 7, 5, 3
+nand 2, 6, 7
+store 6, 1(0)
